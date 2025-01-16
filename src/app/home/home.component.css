@@ -1,0 +1,27 @@
+.layer{
+    background-color: #1abc9c;
+    color: #fff;
+}
+img{
+    width: 13.75rem;
+}
+h2{
+    font-size: 50px;
+    
+}
+.lay{
+    width: 100px;
+    height: .1875rem;
+    background-color: #fff;
+    position: absolute;
+   right: 0;
+    
+   
+}
+.layy{
+    width: 100px;
+    height: .1875rem;
+    background-color: #fff;
+    position: absolute;
+   left: 0;
+}
